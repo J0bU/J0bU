@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @J0bU
-- 👀 I’m interested in technologies like Mobile, Front, Backend
-- 🌱 I’m currently learning Kotling and ReactJS
+- 👀 I’m interested in programming and design!
+  - 🌱 I’m currently learning UI/UX Design, Flutter and ReactJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
